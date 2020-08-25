@@ -1,0 +1,12 @@
+{
+    "name": "",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+    "window": {
+        "title": "",
+        "toolbar": false,
+        "width": 1280,
+        "height": 720,
+        "icon": "icon/narcissu.png"
+    }
+}
